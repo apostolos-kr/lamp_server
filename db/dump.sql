@@ -39,8 +39,8 @@ CREATE TABLE `blog` (
 --
 
 INSERT INTO `blog` (`id`, `title`, `content`, `date`) VALUES
-(1, 'title yep', 'on god frfr', '2023-03-02'),
-(2, 'title yep yep', 'no cap on a stack', '2023-03-03');
+(1, 'title1', 'content11111111', '2023-03-02'),
+(2, 'title2', 'content2222222', '2023-03-03');
 
 --
 -- Indexes for dumped tables
